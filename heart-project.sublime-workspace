@@ -1,0 +1,562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"liststy",
+				"list-style\tproperty"
+			],
+			[
+				"table",
+				"table\tdisplay"
+			],
+			[
+				"shap",
+				"shape-margin\tproperty"
+			],
+			[
+				"scal",
+				"scaleZ()\ttransform"
+			],
+			[
+				"sha",
+				"shape-margin\tproperty"
+			],
+			[
+				"s",
+				"scaleZ()\ttransform"
+			],
+			[
+				"shape",
+				"shape-outside\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"rota",
+				"rotate()\ttransform"
+			],
+			[
+				"tran",
+				"translateZ()\ttransform"
+			],
+			[
+				"rote",
+				"rotateX()\ttransform"
+			],
+			[
+				"trans",
+				"transform-origin\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"i",
+				"image/"
+			],
+			[
+				"color",
+				"color-dodge\tmix-blend-mode"
+			],
+			[
+				"transl",
+				"translateY()\ttransform"
+			],
+			[
+				"nav",
+				"navSub"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"border-to",
+				"border-top-color\tproperty"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"ws",
+				"white-space\tproperty"
+			],
+			[
+				"contact",
+				"contact_input"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"hsl",
+				"hsla()\tbackground-color"
+			],
+			[
+				"backgroundcl",
+				"background-color\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"colu",
+				"column-gap\tproperty"
+			],
+			[
+				"colum",
+				"column-count\tproperty"
+			],
+			[
+				"borderima",
+				"border-image\tproperty"
+			],
+			[
+				"border",
+				"border-image\tproperty"
+			],
+			[
+				"transfo",
+				"transform\tproperty"
+			],
+			[
+				"backgound",
+				"background-origin\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"text",
+				"text-bottom\tvertical-align"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bc",
+				"background-color\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"hs",
+				"hsla()\tbackground-color"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"sub",
+				"subIcon"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"ff",
+				"font-family\tproperty"
+			],
+			[
+				"bgc",
+				"background-color\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"ta",
+				"text-align\tproperty"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"INStal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta\t\t",
+				"Package Control: Install Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/web Designe/CSS/exam/heart"
+	],
+	"file_history":
+	[
+		"/E/web Designe/CSS/exam/heart/style.css",
+		"/E/web Designe/CSS/exam/heart/index.html",
+		"/E/web Designe/CSS/exam/heart/style_group2.css",
+		"/E/web Designe/CSS/exam/heart/index_group2.html",
+		"/E/web Designe/CSS/exam/heart/group2.html",
+		"/E/web Designe/CSS/exam/hart/index.html",
+		"/E/web Designe/CSS/exam/hart/style.css",
+		"/E/web Designe/CSS/exam/table/style-table.css",
+		"/E/web Designe/CSS/exam/table/index-table.html",
+		"/E/web Designe/CSS/exam/my exam-chapter14 to 16/16-shape_clip_mask/style-shape_clip_mask.css",
+		"/E/web Designe/CSS/exam/my exam-chapter14 to 16/16-shape_clip_mask/index-shape_clip_mask.html",
+		"/E/web Designe/CSS/exam/my exam-chapter14 to 16/15-aimation/style-animation.css",
+		"/E/web Designe/CSS/exam/my exam-chapter14 to 16/15-aimation/index-animation.html",
+		"/E/web Designe/CSS/exam/my exam-chapter14 to 16/15-aimation/style-transition.css",
+		"/E/web Designe/CSS/exam/my exam-chapter14 to 16/15-aimation/index-transition.html",
+		"/E/web Designe/CSS/exam/my exam-chapter14 to 16/14-transition/style-transition.css",
+		"/E/web Designe/CSS/exam/my exam-chapter14 to 16/14-transition/index-transition.html",
+		"/E/web Designe/CSS/exam/mask/style.css",
+		"/E/web Designe/CSS/exam/mask/index_mask.html",
+		"/E/web Designe/CSS/exam/clip-path/style_clip-path.scss",
+		"/E/web Designe/CSS/exam/clip-path/index.html",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/MyProject-fa_without grid/index.html",
+		"/E/web Designe/CSS/exam/animation/style-animation.css",
+		"/E/web Designe/CSS/exam/animation/index-animation.html",
+		"/E/web Designe/CSS/exam/transition-animation/index-transition_animation.html",
+		"/E/web Designe/CSS/exam/exam/my exam-chapter 9 to 13/transform/style-transform.css",
+		"/E/web Designe/CSS/exam/exam/my exam-chapter 9 to 13/transform/index-transform.html",
+		"/E/web Designe/CSS/exam/exam/my exam-chapter 9 to 13/transform/3d.html",
+		"/E/web Designe/CSS/exam/exam/my exam-chapter 9 to 13/shadow/style_shadow.css",
+		"/E/web Designe/CSS/exam/exam/my exam-chapter 9 to 13/shadow/index_shadow.html",
+		"/E/web Designe/CSS/exam/exam/my exam-chapter 9 to 13/shadow/index_shadow",
+		"/E/web Designe/CSS/exam/exam/paper-shadow/paper-index.html",
+		"/E/web Designe/CSS/exam/exam/paper-shadow/pader-style.css",
+		"/E/web Designe/CSS/exam/exam/snowman/snowman_style.css",
+		"/E/web Designe/CSS/exam/exam/snowman/snowman_index.html",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/MyProject-fa/script/main.js",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/MyProject-fa/css/style.css",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/MyProject-fa/index.html",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/5-Navigation/my_homework_new/javascript.js",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/5-Navigation/my_homework_new/style.css",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/5-Navigation/my_homework_new/index.html",
+		"/C/Users/MICK/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/3-float/Homework-new/newspaper/style-newspaper.css",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/3-float/Homework-new/newspaper/index-newspaper.html",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/3-float/Homework-new/sidebar/index_sidbar.html",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/3-float/Homework-new/sidebar/style.css",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/3-float/Homework-new/layout/index.html",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/3-float/Homework-new/layout/style.css",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/MyProject-fa/image/desktop.png",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/2-position/homework/new homework/sticky header/index.html",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/2-position/homework/new homework/sticky header/style.css",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/2-position/homework/new homework/card/card.html",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/2-position/homework/new homework/card/style.css",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/2-position/homework/new homework/animation/koala/koala_style.css",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/2-position/homework/new homework/animation/koala/koala.html",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/2-position/homework/new homework/animation/bear/bear.html",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/2-position/homework/new homework/animation/bear/style.css",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/MyProject-fa/test.html",
+		"/C/Users/MICK/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/MICK/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/MyProject-fa/fonts/FontAwesome.otf",
+		"/E/web Designe/CSS/cssLayout(Risponcive)/MyProject-fa/css/main-style.css",
+		"/F/web Designe/exam/style.css",
+		"/F/web Designe/exam/index.html",
+		"/F/web Designe/index.html",
+		"/C/Users/MICK/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/F/web Designe/exam/hi.html",
+		"/f/web Designe/hello.html",
+		"/F/web Designe/exam/script.js",
+		"/f/webdesigne/hi.css",
+		"/C/Users/MICK/hi.css",
+		"/C/Users/MICK/adv/new.cs",
+		"/F/web Designe/CSS/element to center.html",
+		"/F/web Designe/CSS/style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/MyProject/css/style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/MyProject/script/javascript.js",
+		"/E/maryam/Recovered data 07-20 16_35_45/Deep Scan result/More Lost Files(RAW)/3GP Multimedia file/FILE001.3GP",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/MyProject/index.html",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/MyProject/css/grid.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/6-Grid/Exercise Files/2.end/scripts/main.js",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/5-Navigation/myhomework/index.html",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/5-Navigation/myhomework/css/style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/5-Navigation/myhomework/js/main.js",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/3-float/MyProject/index.html",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/3-float/MyProject/css/style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/3-float/homework/MyHomework/news layout/index.html",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/3-float/homework/MyHomework/news layout/style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/MyProject/css/style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/MyProject/index.html",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/MyProject/help.txt",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/homework/My-homework/sticky-header/index.html",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/homework/My-homework/sticky-header/style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/homework/My-homework/animation/bear.html",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/homework/My-homework/card/index.html",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/homework/My-homework/card/style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/homework/My-homework/animation/koala_style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/homework/My-homework/animation/koala.html",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/2-position/homework/My-homework/animation/bear_style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/1-BoxModel/Exercise Files/1.start/index.html",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/1-BoxModel/Exercise Files/2.end/css/style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/1-BoxModel/Exercise Files/1.start/css/style.css",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/1-BoxModel/Exercise Files/1.start/help.txt",
+		"/F/HTML-CSS-JS/trick of HTML & CSS/css-trick.ir/دوره/1-BoxModel/Exercise Files/1.start/css/font-awesome.min.css",
+		"/F/XML/exam/10-show xml with css/xmlFile.xml",
+		"/C/Users/MICK/Pictures/seven/Wallpaper/11018S3H.jpg",
+		"/F/C#/ITPRO_C#/Advanced_C#/Project-Example/39-Serialization/dataSerialize.dat",
+		"/F/jQuery/jQuery-itpro/Example/Index.html",
+		"/F/HTML&CSS&JS/ITPRO_HTML/Exam/010/float.html",
+		"/F/HTML&CSS&JS/ITPRO_HTML/Exam/009/submenu.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%;",
+			"nav_item",
+			"heart",
+			"body",
+			"div",
+			"stylesheet",
+			"heart",
+			">",
+			"heart2",
+			"heart",
+			"heart2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"heart"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "heart-project.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"index_shadow.html"
+			],
+			[
+				"style.css",
+				"css\\style.css"
+			],
+			[
+				"font",
+				"fonts\\FontAwesome.otf"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

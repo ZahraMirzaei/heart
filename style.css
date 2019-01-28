@@ -1,0 +1,170 @@
+/*----------------------------------------------------------------------global*/
+* {
+    box-sizing: border-box;
+}
+
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin:0;
+    padding:0;
+}
+
+.clearfix::before,
+.clearfix::after {
+    content: '';
+    display: table;
+}
+
+.clearfix::after {
+    clear:both;
+}
+
+/*---------------------------------------------------------------------header*/
+
+.header {
+    background-color: gainsboro;
+    /*z-index: 50;*/
+    
+}
+
+.navigation {
+}
+
+.nav_menu {
+    margin:0;
+    padding-left: 5em;
+}
+
+.nav_item {
+    float:left;
+    list-style: none;
+    position: relative;
+}
+
+.nav_link {
+    text-decoration: none;
+    color:gray;
+    padding: 1.5em 3em;
+    /*age inga behesh inline-block bedi zayee mishe*/
+    display: block;
+    border-top: 2PX solid transparent;
+    white-space: nowrap;
+    /*background-color: lightgreen;*/
+}
+
+.nav_item:hover > .nav_link,
+.nav_sub_item:hover .nav_link{
+    border-top: 2px solid #004566;
+    
+}
+
+.nav_sub{
+    margin:0;
+    padding:0;
+    display: none;
+    position: absolute;
+    top:100%;
+    left:0;
+}
+
+.nav_item:hover .nav_sub {
+    display: block;
+}
+
+.nav_sub_item {
+    list-style: none;
+    background-color: gainsboro;
+
+}
+
+.mega_menu {
+    position:absolute;
+    left:-320%;
+    right:-640%;
+    top:100%;
+    padding:.5em 2em;
+    background-color: #A5B0BC;
+    color:white;
+    font:1em/2em serif;
+    white-space: nowrap;
+    opacity:0;
+    pointer-events: none;
+    transition: opacity .3s;
+}
+
+.has_mega:hover .mega_menu {
+    opacity: .8;
+    /*display: block;*/
+    pointer-events: auto;
+}
+
+.name {
+
+}
+
+.phone {
+
+}
+
+.email {
+
+}
+
+/*========================================================================main*/
+.heart
+{
+    position: relative;
+    width: 100px;
+    height: 90px;   
+    margin: 10em auto;
+    z-index: -1;
+}
+
+.heart::before,
+.heart::after
+{
+    position: absolute;
+    content: "";
+    left: 50px;
+    top: 0;
+    width: 50px;
+    height: 80px;
+    background: red;
+    border-radius: 50px 50px 0 0;
+    transform: rotate(-45deg);
+    transform-origin: 0 100%;
+}
+.heart::after
+{
+    left: 0;
+    transform: rotate(45deg);
+    transform-origin: 100% 100%;
+}
+
+.heart2 {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin:3em auto;
+}
+
+.heart2::before,
+.heart2::after {
+    width: 60%;
+    height:100%;
+    content: '';
+    background-color: blue;
+    position:absolute;
+    top:0;
+    border-radius: 60px 60px 0 0 ;
+    transform: rotate(-45deg);
+}
+
+.heart2::after {
+    left:28%;
+    transform: rotate(45deg);
+}
